@@ -15,9 +15,9 @@
 Обнаруженные после сканпирования NMAP список открытых портов и запущенных служб на них:
 ![Список служб](https://github.com/Bespochadny/13-01-hw/blob/main/img/1.png) 
 Обнаруженные уязвимости для служб:
-[RPCBind / libtirpc - Denial of Service](https://www.exploit-db.com/exploits/41974)
-[vsftpd 2.3.4 Backdoor Command Execution](https://www.exploit-db.com/exploits/49757)
-[Samba 3.0.20 - 'Username' map script' Command Execution](https://www.exploit-db.com/exploits/16320)
+- [RPCBind / libtirpc - Denial of Service](https://www.exploit-db.com/exploits/41974)
+- [vsftpd 2.3.4 Backdoor Command Execution](https://www.exploit-db.com/exploits/49757)
+- [Samba 3.0.20 - 'Username' map script' Command Execution](https://www.exploit-db.com/exploits/16320)
 
 ## Задание 2.
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
